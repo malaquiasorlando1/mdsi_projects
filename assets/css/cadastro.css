@@ -1,0 +1,30 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url('../img/keyboard-illuminated-fingers-typing-business-communications-flowing-generated-by-ai.jpg');   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
+ 
+.btn-block {
+     width: 30%; 
+     margin: 0 auto; 
+     font-size: 1.1rem; 
+     padding: 5px; 
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.6); 
+}
+
+.required::after {
+    content: '*';
+    color: red;
+    margin-left: 3px;
+}
+
+
+  
+  
+
